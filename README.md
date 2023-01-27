@@ -1,4 +1,4 @@
-# FlappyBird
+# Flappy Bird
 
 Flappy bird game with bandera_duck written on python with pygame
 
