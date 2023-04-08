@@ -1,6 +1,9 @@
 # Flappy Bird
 
-Flappy bird game with bandera_duck written on python with pygame
+Flappy bird game with bandera_duck written on python with pygame.
+
+History of the game:
+https://en.wikipedia.org/wiki/Flappy_Bird
 
 Fly among the rockets and catch bonuses.
 
